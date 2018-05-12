@@ -1,18 +1,21 @@
 _repo: Battle-Studies--Ancient-and-Modern-Battle_7294
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Greely, John N. (John Nesmith)
     alias: Greely, John Nesmith
-    birthdate: &id001 1885
+    birthdate: 1885
     deathdate: 1965
     gutenberg_agent_id: '40899'
     url: http://www.gutenberg.org/2009/agents/40899
   - agent_name: Cotton, Robert Christie
-    birthdate: *id001
+    birthdate: 1885
     deathdate: 1952
     gutenberg_agent_id: '37464'
     url: http://www.gutenberg.org/2009/agents/37464
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ardant du Picq, Charles Jean Jacques Joseph
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2410
     wikipedia: http://en.wikipedia.org/wiki/Ardant_du_Picq
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7294#Battle-Studies--Ancient-and-Modern-Battle
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
